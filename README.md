@@ -1,6 +1,3 @@
-Sure, let's break down the project into detailed steps, explaining the tools, technologies used, steps performed, and the final outcome. I will also use strong power verbs to ensure it's ATS-friendly.
-
----
 
 ### Project Title: Uber Data Analytics - End-to-End Data Engineering Project
 
@@ -49,7 +46,7 @@ Sure, let's break down the project into detailed steps, explaining the tools, te
 
 ---
 
-### conclusion:
+### Conclusion:
 - **Engineered** an end-to-end data pipeline using Google Cloud Platform (GCP) services and Meltano, automating data ingestion, transformation, and loading processes.
 - **Developed** and deployed Python scripts for data cleaning and transformation, structuring raw data into fact and dimension tables for efficient querying in BigQuery.
 - **Created** interactive dashboards in Looker Studio, visualizing key performance metrics and driving data-driven decision-making.
